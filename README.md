@@ -42,11 +42,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-
-About the porject blah blah blah
-
-More stuff fdafdas
+tfdsfds
 
 
 ### Built With
