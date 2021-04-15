@@ -42,7 +42,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-tfdsfds
+This project was built with ease in mind.
+Collecting data for deep learning is the most crucial part in building a good model. All you need to use the scraper is the url link to the google images you want. This scraper then scrolls down to the bottom of the page and downloads each image. Each link usually download 400-600 images.
+
+Happy scraping!
 
 
 ### Built With
