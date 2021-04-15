@@ -51,7 +51,7 @@ Here's a blank template to get started:
 
 ### Built With
 
-* [selenium]()
+* [selenium](https://www.selenium.dev/documentation/en/webdriver/#:~:text=Selenium%20WebDriver%20refers%20to%20both,and%20more%20concise%20programming%20interface.)
 * [requests]()
 * [BeautifulSoup]()
 * [tqdm]()
