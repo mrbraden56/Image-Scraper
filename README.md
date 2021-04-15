@@ -64,7 +64,7 @@ Here's a blank template to get started:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/mrbraden56/repo_name.git
+   git clone https://github.com/mrbraden56/Image-Scraper.git
    ```
 
 
