@@ -52,10 +52,10 @@ Here's a blank template to get started:
 ### Built With
 
 * [selenium](https://www.selenium.dev/documentation/en/webdriver/#:~:text=Selenium%20WebDriver%20refers%20to%20both,and%20more%20concise%20programming%20interface.)
-* [requests]()
-* [BeautifulSoup]()
-* [tqdm]()
-* [PIL]()
+* [requests](https://docs.python-requests.org/en/master/)
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [tqdm](https://github.com/tqdm/tqdm)
+* [PIL](https://pillow.readthedocs.io/en/stable/)
 
 
 
